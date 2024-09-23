@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I am Elia. 👋
 
-<!--
-**pucenzo/pucenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student and I still consider myself a neophyte exploring and learning the world of coding and software development. I am a very curious person, with a strong desire to continuously learn new things; I hope that this passion will help me increase and improve my skills and I hope to do so in this space, also thanks to your support.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Skills
+
+
+
+## How to reach me
+eliacicio@gmail.com
+
