@@ -14,4 +14,4 @@ Actualy my interests include deepening and improving my skills in programming an
 
 
 ## How to reach me
-If you have ideas, or just want to discuss, or you want to collaborate you can reach me at eliacicio@gmail.com
+If you have ideas, want to discuss, or are interested in collaborating, you can reach me at eliacicio@gmail.com.
