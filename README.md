@@ -4,7 +4,7 @@ I am a Computer Science student but I still consider myself a neophyte exploring
 
 ## Interests
 
-Actualy my interests include deepening and improving my skills in programming and algorithms knowledge. I am also fascinated by machine learning and cybersecurity, two areas that I hope to start exploring soon.
+Actually, my interests include deepening and improving my skills in programming and algorithmic knowledge. I am also fascinated by machine learning and cybersecurity, two areas that I hope to start studying soon.
 
 ## Skills
 
