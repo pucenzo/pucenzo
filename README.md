@@ -10,7 +10,7 @@ Actualy my interests include deepening and improving my skills in programming an
 
 * <strong> Programming Languages: </strong> Python, Java, C, R
 * <strong> Database: </strong> MySQL, PostgreSQL
-* <strong> Tools & Technologies: </strong> Git, VSCode, Rstudio
+* <strong> Tools: </strong> VSCode, Rstudio
 
 
 ## How to reach me
